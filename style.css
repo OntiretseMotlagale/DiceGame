@@ -1,0 +1,54 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin-bottom: 30px;
+
+}
+.player1{
+  opacity: 13;
+}
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'montserrat', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 4rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family: 'helvetica', cursive;
+}
+img {
+  width: 80%;
+}
+.butn{
+  padding: 5px;
+  background-color: grey;
+  font-size: 20px;
+  margin-left: 10px;
+  border-radius: 10px;
+  background-color: #0A1931;
+  color: #fff;
+}
+.butn:hover{
+  cursor: pointer;
+}
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'montserrat', cursive;
+
+}
